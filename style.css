@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+}
+
+.pblue{
+  color: blue;
+}
+
+.descargar{
+  padding: 10px 15px;
+  color: white;
+  background-color: blue;
+  border-radius: 50px;
+  text-align: center;
+  margin-top: 30px;
+  border: none;
+}
