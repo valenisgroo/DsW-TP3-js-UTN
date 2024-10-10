@@ -20,7 +20,7 @@ Las actividades del TP3 se encuentran en el directorio `files` de este repositor
 
 ## ✅ Resolución
 
-Este repositorio contiene la **resolución completa** del TP3, mostrando la aplicación práctica de los conceptos de JavaScript en el siguiente enlace: [https://valenisgroo.github.io/DsW-TP3-js-UTN/](https://valenisgroo.github.io/DsW-TP3-js-UTN/)
+Este repositorio contiene la **resolución completa** del TP3, mostrando la aplicación práctica de los conceptos de JavaScript en el siguiente enlace: https://valenisgroo.github.io/DsW-TP3-js-UTN/
 
 ---
 
